@@ -8,5 +8,5 @@ MarkupSafe==1.0
 packaging==16.8
 PySocks==1.6.6
 pytz==2016.10
-requests==2.13.0
+requests==2.20.0
 uWSGI==2.0.17.1
