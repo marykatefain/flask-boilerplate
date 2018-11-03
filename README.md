@@ -7,7 +7,7 @@ A basic boilerplate flask app to get you started
 
 1. Clone the repo
 
-2. Set up a Virtual Env: `mkvirtualenv --python=python3 appname`
+2. Set up a Virtual Env: `mkvirtualenv --python=python3 appname`, `workon appname`
 
 3. `pip install -r requirements.txt`
 
